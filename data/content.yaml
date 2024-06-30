@@ -1,0 +1,108 @@
+BasicInfo:
+  FirstName: Alex
+  LastName: Greenwood
+  Photo: img/avatar.png
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +44 7971 785 888
+    - Icon: fas fa-envelope
+      Info: alexrgreenwood@hotmail.com
+    - Icon: fas fa-globe
+      Info: <a class="contact__link" href="https://yougov.co.uk" target="_blank">yougov.co.uk</a>
+    - Icon: fab fa-github
+      Info: <a class="contact__link" href="https://github.com/alexrgreenwood/" target="_blank">github.com/alexrgreenwood</a>
+    - Icon: fab fa-linkedin
+      Info: <a class="contact__link" href="https://www.linkedin.com/in/alex-greenwood-a6b9bb19b/" target="_blank">LinkedIn</a>
+    - Icon: fas fa-map-marker-alt
+      Info: London, UK
+Profile: I'm a Senior Database Specialist with expertise in Powershell, REST API integration, and Data Engineering. Using these skills, I have led teams in developing large-scale BI systems that are accurate, reliable and a pleasure to use. I work for a highly respected research data & analytics company and understand the value of high-quality data and reporting. I can automate anything with an API - saving time, money and effort.
+
+Experience:
+  - Employer: "[YouGov Plc](https://yougov.co.uk) - a global public opinion and data company"
+    Place: London, UK
+    Positions:
+      - Title: Business Intelligence Architect
+        Date: Aug 2012 - Present
+        Details:
+          - Business Process Automation Lead Developer
+          - Line Management of BI Developers
+          - Designed and Built 4TB Data Warehouse with OLAP cube semantic model
+          - Feature Engineering for anti-fraud predictive model 
+          - Dimensional modeling
+          - Audit and Finance Reporting 
+          - Data Engineering
+          - REST API Integration
+        Badges: [Powershell,SQL,Azure,ETL,REST,OLAP,Oauth2,PostgreSQL,Snowflake]
+
+      - Title: Senior Database Administrator
+        Date: Aug 2007 - Jul 2012
+        Details:
+          - MS SQL Server Administration (Tsql , Linked servers, Agent, Backups, Security)
+          - MS SQL Server Builds (2012,2016,2019,2022)
+          - Part of team that built and migrated multi rack datacenter from Berlin to London
+          - Data Center Storage Management ([Pure](https://www.purestorage.com/), [Nimble](https://www.hpe.com/uk/en/storage/nimble.html), Dell, NetApp)
+          - Data Center Virtualization Management ([VMware](https://www.vmware.com/))
+          - Desgined and built Datacenter monitoring solution ([check_mk](https://checkmk.com/))
+          - VM Image Backups ([Veeam](https://en.wikipedia.org/wiki/Veeam_Backup_%26_Replication))
+          - Active Directory SysAdmin (on premise to Azure hybrid)
+          - Out of hours on call support
+        Badges: [SQL,ETL,ODBC,Windows,Linux,Storage,Redshift]
+
+  - Employer: "[Telme.com](https://www.atpi.com/the-company/)/Farebase Ltd"
+    Place: London, UK
+    Positions:
+      - Title: Database Administrator
+        Date: Jan 1999 - Jul 2007
+        Details:
+          - Batch file scripting 
+          - Database performance tuning
+          - Writing T-SQL Views and Stored procedures
+          - Transaction Fee Reporting (airline booking engine)
+          - Exchange Server Admin
+          - Hostmaster 
+        Badges: [SQL,DNS,Ecommerce,Excel]
+Skills:
+  - Family: Programming
+    Items:
+      - Powershell (Advanced)
+      - SQL (Advanced)
+      - REST APIs
+      - Python
+  - Family: Things I can automate
+    Items:
+      - Data delivery pipelines
+      - User OnBoarding
+      - Data syncing 
+      - "[Slack Apps](https://sqlcommunity.slack.com/intl/en-gb/apps)"
+      - Backups
+  - Family: Cloud API's I've used
+    Items:
+      - "[Microsoft Entra ID](https://www.microsoft.com/en-gb/security/business/identity-access/microsoft-entra-id)"
+      - "[Microsoft Intune](https://www.microsoft.com/en-gb/security/business/microsoft-intune)"
+      - "[Sage People](https://www.sage.com/en-gb/sage-business-cloud/people/)"
+      - "[Netsuite](https://www.netsuite.co.uk/portal/uk/home.shtml)"
+      - "[Greenhouse (HR)](https://www.greenhouse.com/)"
+      - "[Smart Recruiters (HR)](https://www.smartrecruiters.com/)"
+      - "[Zoom](https://zoom.us/)"
+      - "[Slack](https://slack.com/intl/en-gb/)"
+      - "[Absorb LMS](https://www.absorblms.com/)"
+      - "[AWS](https://aws.amazon.com/)"
+
+  - Family: Developer Tools
+    Items:
+      - Git
+      - Docker
+      - VScode
+      - "[Jira](https://www.atlassian.com/software/jira) + [Confluence](https://www.atlassian.com/software/confluence)"
+
+  - Family: Good knowledge of 
+    Items:
+      - C#, Perl, Bash
+      - CI/CD
+      - "[ITSM](https://en.wikipedia.org/wiki/IT_service_management)/[ISO 27001](https://en.wikipedia.org/wiki/ISO/IEC_27001)"
+
+Languages:
+  - Name: English
+    Level: Native
+  - Name: German
+    Level: Fluent
