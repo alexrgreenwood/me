@@ -7,7 +7,7 @@ publishDir = "docs"
 theme = "almeida-cv"
 disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
 
-baseURL = "alexrgreenwood.github.io/me/"
+baseURL = "https://alexrgreenwood.github.io/me/"
 title = "Alex Greenwood - CV"
 #googleAnalytics = ""
 
